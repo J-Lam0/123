@@ -1,5 +1,0 @@
-﻿  源.cpp
-d:\c+++++\source\project1\project1\astack.h(23): warning C4002: 类函数宏的调用“assert”参数过多
-d:\c+++++\source\project1\project1\astack.h(28): warning C4002: 类函数宏的调用“assert”参数过多
-d:\c+++++\source\project1\project1\astack.h(33): warning C4002: 类函数宏的调用“assert”参数过多
-  Project1.vcxproj -> D:\C+++++\source\Project1\Debug\Project1.exe
