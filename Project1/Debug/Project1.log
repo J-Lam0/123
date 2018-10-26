@@ -1,0 +1,5 @@
+﻿  源.cpp
+c:\users\xkw\desktop\project1\project1\astack.h(23): warning C4002: too many arguments for function-like macro invocation 'assert'
+c:\users\xkw\desktop\project1\project1\astack.h(28): warning C4002: too many arguments for function-like macro invocation 'assert'
+c:\users\xkw\desktop\project1\project1\astack.h(33): warning C4002: too many arguments for function-like macro invocation 'assert'
+  Project1.vcxproj -> C:\Users\xkw\Desktop\Project1\Debug\Project1.exe
